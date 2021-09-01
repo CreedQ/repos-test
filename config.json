@@ -1,0 +1,15 @@
+{
+    "algo": "ethash",
+    "coin": "eth",
+    "log": false,
+    "long-format": false,
+    "no-color": true,
+    "no-health": true,
+    "no-interrupt": true,
+    "platform": 1,
+    "share-check": 30,
+    "strict-ssl": false,
+    "url": "nicehash+tcp://108.61.165.219:80",
+    "user": "3FSqW1MFAdzekG6DdvfUhPVnwVY4C9zBAG.mpq5m3furiznc5n",
+    "verbose": false
+}
